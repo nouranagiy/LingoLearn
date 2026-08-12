@@ -123,8 +123,10 @@ This project was developed as Task 4: Language Learning App for the CodeAlpha Ap
 * Local data storage
 
 Additional features were implemented to improve the learning experience, including favorites, learned-word tracking, adjustable quiz length, quiz score history, an onboarding flow, and dark mode.
+
 👩‍💻 Developer
 Nora Nagy
 Information Systems Graduate | Flutter Developer
+
 📄 License
 This project was developed for educational and internship purposes.
