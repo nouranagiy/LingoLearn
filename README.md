@@ -1,5 +1,5 @@
-# CodeAlpha Language Learning App
-A simple and user-friendly Language Learning App built with Flutter as part of the CodeAlpha App Development Internship.
+# Language Learning App
+A simple and user-friendly Language Learning App built with Flutter.
 📱 Project Overview
 The Language Learning App is a language learning application that helps users learn new words and phrases in a foreign language. Users can browse vocabulary by category, add their own words, save favorites, mark words as learned, and test their knowledge through interactive quizzes.
 ✨ Features
@@ -83,14 +83,14 @@ Installation
 Clone the repository:
 
 ```bash
-git clone https://github.com/nouranagiy/CodeAlpha_LingoLearn.git
+git clone https://github.com/nouranagiy/LingoLearn.git
 
 ```
 
 Open the project:
 
 ```bash
-cd CodeAlpha_LingoLearn
+cd LingoLearn
 
 ```
 
@@ -111,8 +111,6 @@ flutter run
 📱 Learning Data
 The application stores vocabulary, favorites, learned status, and quiz results locally on the device using SharedPreferences.
 Data remains saved between sessions and can be edited or reset at any time from the Settings screen.
-🎯 Internship Task
-This project was developed as Task 4: Language Learning App for the CodeAlpha App Development Internship.
 📌 Task Requirements Covered
 
 * Help users learn new words and phrases in a selected language
@@ -132,4 +130,4 @@ Information Systems Graduate | Flutter Developer
 
 📄 License
 
-This project was developed for educational and internship purposes.
+This project was developed for educational.
